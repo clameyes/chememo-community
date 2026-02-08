@@ -1,5 +1,5 @@
 ---
-name: ケミモ公式
+name: Chememo
 avatar: /favicon.png
 ---
 
