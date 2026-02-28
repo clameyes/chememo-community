@@ -1,15 +1,10 @@
 ---
 title: 分析化学の基礎
 pubDate: 2025-01-01
-category: "実験操作"
 tags:
+  - 実験操作
   - 分析化学
 featured: true
-difficulty: "beginner"
-duration: "30分"
-reagents:
-  - "酢酸エチル"
-  - "ヘキサン"
 ---
 
 分析化学は、物質の組成や構造を明らかにするための化学の分野です。
